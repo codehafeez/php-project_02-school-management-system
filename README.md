@@ -14,7 +14,15 @@ http://localhost/php-project_02-school-management-system
 ```    
 
 ## Screenshots
-![](https://raw.githubusercontent.com/codehafeez/php-project_01-michawla/main/Screenshots/Login.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/TimeTable.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/account-fees1.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/account-fees5.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/account-fees7.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/account-salary6.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/class1.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/employee10.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/home1.png)
+![](https://raw.githubusercontent.com/codehafeez/php-project_02-school-management-system/main/Screenshots/student1.png)
 
 
 ## 🔗 www.codehafeez.com
